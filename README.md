@@ -1,6 +1,6 @@
 progettoamm
 ===========
-<!doctype html>
+<doctype html>
 <html>
 	<head>
 		<title> Prova durante il corso</title>
